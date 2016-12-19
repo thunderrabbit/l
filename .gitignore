@@ -19,3 +19,6 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+# spring is related to testing via Guardfile or something
+/spring/*.pid
